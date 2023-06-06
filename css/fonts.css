@@ -1,0 +1,239 @@
+/* Thin */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-thin.woff2);
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* Thin Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-thin-italic.woff2);
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* Extralight */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-extralight.woff2);
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* Extralight Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-extralight-italic.woff2);
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Light */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-light.woff2);
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Light Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-light-italic.woff2);
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Regular */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-regular.woff2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Regular Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-regular-italic.woff2);
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Medium */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-medium.woff2);
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Medium Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-medium-italic.woff2);
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Bold */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-bold.woff2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-bold-italic.woff2);
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Black */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-black.woff2);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Black Italic */
+@font-face {
+    font-family: Signifier;
+    src: url(/fonts/TestSignifier/test-signifier-black-italic.woff2);
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Extraleicht */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-extraleicht.woff2);
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* Extraleicht Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-extraleicht-kursiv.woff2);
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Leicht */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-leicht.woff2);
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Leicht Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-leicht-kursiv.woff2);
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Buch */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-buch.woff2);
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Buch Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-buch-kursiv.woff2);
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Kräftig */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-kraftig.woff2);
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Kräftig Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-kraftig-kursiv.woff2);
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Halbfett */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-halbfett.woff2);
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Halbfett Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-halbfett-kursiv.woff2);
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Dreiviertelfett */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-dreiviertelfett.woff2);
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Dreiviertelfett Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-dreiviertelfett-kursiv.woff2);
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Fett */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-fett.woff2);
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* Fett Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-fett-kursiv.woff2);
+    font-weight: 800;
+    font-style: italic;
+}
+
+/* Extrafett */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-extrafett.woff2);
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Extrafett Kursiv */
+@font-face {
+    font-family: Soehne;
+    src: url(/fonts/TestSöhneCollection/testSöhne/test-soehne-extrafett-kursiv.woff2);
+    font-weight: 900;
+    font-style: italic;
+}
